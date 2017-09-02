@@ -1,0 +1,27 @@
+body{
+	background-color: #9099A2
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.lists{
+	
+	display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}	
+ #myphoto {
+   width: 200px;
+   height: 200px;
+	
+   margin-right: 20px;
+ }
+ .listscl{
+ 	color: white;
+ }
