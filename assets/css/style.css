@@ -37,6 +37,19 @@ body{
  .listscl{
  	color: white;
  }
+ .sidebyside{
+ 	width: 650px;
+ }
+ .pimage{
+ 	float: left;
+ 	width: 200px;
+ 	height: 300px;
+ }
+ .ptext{
+ 	float: left;
+ 	width: 450px;
+ 	height: 300px;
+ }
  .resizeimagelinks {
  	width: 75px;
 	height: 73px;
@@ -49,7 +62,19 @@ body{
  ul.logolist li{
  	display: inline-block;
  }
+ h2{
+
+ 	font-size: 120%;
+ 	padding: 0px 10px;
+
+ }
  footer {
+ 	position: absolute;
+ 	right: 0;
+ 	bottom: 0;
+ 	left: 0;
+ 	padding: 1rem;
+ 	text-align: center;
     background-color: #333;
     color: white;
  }
